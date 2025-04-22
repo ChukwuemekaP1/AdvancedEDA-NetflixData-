@@ -1,2 +1,8 @@
 pandas
 matplotlib
+pandas 
+numpy 
+matplotlib
+seaborn
+plotly
+sklearn 
