@@ -83,7 +83,7 @@ Contributions are welcome! If you have ideas to improve the analysis or add new 
 Have questions or feedback? Feel free to reach out:
 
 - **Email**: nwokolopaul979@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/ChukwuemekaP1)
+- **GitHub**: [Your GitHub Profile]:(https://github.com/ChukwuemekaP1)
 
 ---
 
